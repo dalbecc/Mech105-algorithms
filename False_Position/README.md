@@ -1,4 +1,4 @@
-##False Position Script
+**False Position Script
 
 This MATLAB algorithm uses the false position method to approximate the roots of a given function. It involves bracketing the root and iteratively narrowing down the interval until an inputted stopping criterion is reached (if none is inputted, the script will run until the relative error is less than 0.0001%). The code is efficient and accurate in finding roots of non-linear equations.
 ---
