@@ -1,6 +1,6 @@
 # Linear Regression Script
 ---
-* This MATLAB algorithm filter outliers from a given x,y data set, computes the linear regression on the filtered data set and computes the r-squared value from the filtered data and the calculated linear regression function. It is useful for creating trendlines and observing trends occuring in data sets while also removing any potential erroneous data.
+* This MATLAB algorithm filters outliers from a given x,y data set, computes the linear regression on the filtered data set and computes the r-squared value from the filtered data and the calculated linear regression function. It is useful for creating trendlines and observing trends occuring in data sets while also removing any potential erroneous data.
 ---
 # Function Name: linearRegression
 ## Function Format: linearRegression(x,y)
