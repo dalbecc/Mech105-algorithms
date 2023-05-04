@@ -11,7 +11,7 @@ This MATLAB algorithm uses the false position method to approximate the roots of
 -maxit - the maximum number of iterations to use (should default to 200)
 -varargin, . . . - any additional parameters used by the function
 
-**Outputs:
+Outputs:
 -root - the estimated root location
 -fx - the function evaluated at the root location
 -ea - the approximate relative error (%)
